@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/phone_ring.wav-4d7d0f597e06bcaafe3bf72ee8c9304a.sample"
+
+[deps]
+
+source_file="res://Audio/SFX/phone_ring.wav"
+dest_files=[ "res://.import/phone_ring.wav-4d7d0f597e06bcaafe3bf72ee8c9304a.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

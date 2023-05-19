@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/beach_gameplay.wav-532289c14a738b1b1d5196bf7486adab.sample"
+
+[deps]
+
+source_file="res://Audio/Soundtracks/beach_gameplay.wav"
+dest_files=[ "res://.import/beach_gameplay.wav-532289c14a738b1b1d5196bf7486adab.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0
